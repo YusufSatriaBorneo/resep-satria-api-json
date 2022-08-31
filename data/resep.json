@@ -1,60 +1,59 @@
 {
-    "resep": [
-        {
-            "negara": "Indonesia",
+    "resep": [{
+            "negara": "indonesia",
             "nama": "Rendang",
             "bahan": "500 gr daging,1 batang serai geprek,3 lembar daun jeruk,2 lembar daun salam,1 sdt kaldu sapi dan garam,1/2 sdt jintan bubuk,1/2 sdt merica bubuk,1 ruas lengkuas geprek,2 cm kayu manis,1 sdt gula merah,Jeruk nipis,500 ml santan dari 1/2 kelapa",
             "caramembuat": "1. Langkah pertama, cuci bersih daging, potong sesuai selera, beri perasan jeruk nipis, lalu cuci lagi., 2. Setelah itu, haluskan bumbu, lalu tumis bumbu halus dengan serai, daun jeruk, daun salam, kayu manis dan lengkuas sampai matang., 3. Masukkan daging, aduk rata, lalu masukkan santan. Masak dengan api kecil sambil sesekali diaduk., 4. Kemudian masukkan garam, kaldu, jintan, merica dan gula merah, diamkan hingga bumbu meresap dan airnya menyusut.",
-            "gambar" :"rendang.jpg"
+            "gambar": "rendang.jpg"
         },
-         {
-            "negara": "Indonesia",
+        {
+            "negara": "indonesia",
             "nama": "Mie Dok Dok",
             "bahan": "1 bungkus mie instan goreng atau rebus,2 siung bawang merah,1 siung bawang putih,6 buah cabai rawit,1 buah sosis,Garam dan gula secukupnya,1 butir telur,1 genggam sawi hijau,Minyak goreng secukupnya",
             "caramembuat": "Haluskan bawang putih, bawang merah, gula dan garam. Kemudian tumis, bumbu halus dengan sedikit minyak hingga harum., Masukkan telur, goreng orak-arik., Tambahkan air secukupnya, masak hingga mendidih., Masukkan mie instan, masak hingga setengah matang., Tambahkan sayuran, sosis, dan bumbu mie instan. Masak hingga kuah agak meresap., Mie dokdok siap disajikan.",
-            "gambar" :"miedokdok.jpg"
+            "gambar": "miedokdok.jpg"
         },
-         {
-            "negara": "Jepang",
+        {
+            "negara": "jepang",
             "nama": "Mie Ramen",
             "bahan": "Mie telur, 2 buah wortel iris korek api, Daun bawang (iris), Rumput laut, Suwiran daging sapi, Bakso ikan, Telur rebus, Pokcoy, Bahan kuah:, 2 siung bawang putih, 1/2 buah bawang bombay, 2 sdm kecap asin, 1 sdm saus tiram, 1 sdm Kecap ikan, Merica, Garam",
             "caramembuat": "Untuk kuah, tumis bawang putih dan bombai. Tuang air rebusan daging sapi. Beri bumbu pelengkap, angkat jika sudah mendidih., Rebus mie dan pokcoy., Taruh mie dan pokcoy di mangkuk. Siram kuah, beri topping daging suwir, wortel iris, rumput laut, telur rebus, dan bakso ikan.",
-            "gambar" :"ramen.jpg"
+            "gambar": "ramen.jpg"
         },
-         {
-            "negara": "Jepang",
+        {
+            "negara": "jepang",
             "nama": "Onigiri",
             "bahan": "Nasi putih pulen, salmon suwir, dimarinasi, mayones pedas, nori, boncabe, wijen hitam dan putih untuk taburan",
             "caramembuat": "1. Campur salmon dengan mayones pedas., 2. Ambil nasi sekitar 2 sendok, padatkan dengan plastik wrap, lalu isi dengan isian salmon sekitar 1 sdm., 3. Kepal sampai padat dan bentuk segitiga., 4. Beri nori sheet dengan 4 varian, ada yang diisi didalemnya, ada yang dicampur aduk, ada yang diberi pinggiran boncabe dan ada yang diberi lumuran wijen hitam dan wijen putih., 5. Sajikan dengan pelengkap salmon fried dan tamagoyaki.",
-            "gambar" :"onigiri.jpg"
+            "gambar": "onigiri.jpg"
         },
-         {
-            "negara": "Korea",
+        {
+            "negara": "korea",
             "nama": "Kimchi",
             "bahan": "1 sdm gula, Cabai bubuk secukupnya, 1 buah lobak putih, 2 siung bawang putih, 1/2 sdt garam, 1/2 ruas jahe",
             "caramembuat": "1. Kupas, cuci lalu potong dadu lobak., 2. Beri gula dan garam, aduk aduk. Diamkan selama 30 menit, aduk setiap 10 menit., 3. Campur lobak dengan cincangan jahe, bawang putih cincang, dan cabai bubuk., 4. Diamkan di suhu ruang satu sampai dua hari. Masukkan ke lemari es.",
-            "gambar" :"kimchi.jpg"
+            "gambar": "kimchi.jpg"
         },
-         {
-            "negara": "Korea",
+        {
+            "negara": "korea",
             "nama": "Kimbab",
             "bahan": "1 mangkuk nasi, 2 lembar nori, 2 potong timun rebus, 1 wortel potong menjadi empat, iris memanjang, 4 buncis, Ayam goreng krispi, potong-potong memanjang",
             "caramembuat": "1. Siapkan anyaman bambu untuk menggulung kimbab., 2. Ambil 1 lembar nori, letakkan nasi di atasnya dan ratakan., 3. Letakkan wortel, buncis, timun, dan potongan ayam di tengahnya., 4. Gulung dan tekan-tekan kimbab mat supaya kimbab padat., 5. Potong-potong dan sajikan.",
-            "gambar" :"kimbab.jpg"
+            "gambar": "kimbab.jpg"
         },
-         {
-            "negara": "Thailand",
+        {
+            "negara": "thailand",
             "nama": "Montad Chuame",
             "bahan": "2 batang singkong ukuran besar, 65 ml santan kental, 2 sendok makan tepung maizena (larutkan), 4 sendok makan gula pasir, 1/2 sendok teh garam, 2 gelas air, 1 lembar daun pandan, simpulkan",
             "caramembuat": "Rebus singkong yang sudah dipotong dan dicuci bersih bersama gula hingga matang, lalu tiriskan., Masak santan dan pandan hingga mendidih, lalu tambahkan tepung maizena yang sudah dilarutkan dengan segelas air., Masak hingga santan mengental dan meletup-letup, lalu tambahkan sedikit garam. Angkat dari kompor.",
-            "gambar" :"montad.jpg"
+            "gambar": "montad.jpg"
         },
-         {
-            "negara": "Thailand",
+        {
+            "negara": "thailand",
             "nama": "Tomyam Udang",
             "bahan": "226 gr udang, kupas dan buang kulitnya 2 batang serai atau irisan lemon 6 gelas air atau kaldu udang 4 siung bawang putih, cincang 2 cabai rawit, iris (lebihkan jika suka pedas) 1 buah jeruk nipis, parut dan peras 151 gr jamur kancing, iris 1 sdt jahe parut 1 sdt gula pasir 2 sdt kecap atau kecap ikan, bisa ditambah lagi sesuai selera",
             "caramembuat": "1. Siapkan bahan-bahannya. Bersihkan dan kupas udang. (Kerang dapat digunakan untuk membuat kaldu udang dalam resep ini sebagai pengganti bahan kaldu). 2. Potong serai sekitar 2,5 cm pada bagian bawah dan 12 cm lebih pada bagian atas. Kupas lapisan luar yang keras sampai empuk dan berwarna kekuningan. Baca juga: Resep Ayam Panggang Bumbu Tomyam, Menu Makan Siang Enak 3. Hancurkan serai dengan lembut menggunakan punggung pisau dan ikat batang serai menjadi simpul untuk memperlihatkan berbagai lapisan.",
-            "gambar" :"tomyam.jpg"
+            "gambar": "tomyam.jpg"
         }
     ]
 }
