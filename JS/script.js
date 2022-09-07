@@ -36,4 +36,16 @@
     });
   });
 
+    fetch("data/resep.json")
+     .then(response => response.json())
+     .then(data => {
+      let resep = data.resep;
+      let content = '';
+        $.each(resep,function (i, data){
+          content += `<div><br>Nama Makanan : `+ data.nama + `<br> <br> Bahan : `+ data.bahan + `<br><br>Cara Membuat :` + data.caramembuat +`</div>`;
+        });
+        $('#debug').html(content);
+     });
+
+    
 
